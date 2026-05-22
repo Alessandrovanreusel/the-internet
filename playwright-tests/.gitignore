@@ -1,0 +1,7 @@
+__pycache__/
+.pytest_cache/
+.playwright/
+test-results/
+playwright-report/
+trace.zip
+*.pyc
